@@ -29,7 +29,7 @@ setup(
     long_description=long_description,
 
     # The project's main homepage.
-    url='https://github.com/wildfoundry/django-asparagust',
+    url='https://github.com/wildfoundry/django-asparagus',
 
     # Author details
     author='Wildfoundry',
